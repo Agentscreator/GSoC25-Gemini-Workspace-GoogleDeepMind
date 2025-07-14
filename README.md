@@ -3,7 +3,7 @@
 This project is aimed for the developers to interact with the Gemini API's through the Gemini Workspace in postman providing a central hub for exploration,integration and troubleshooting.This will reduce the 
 initial learning curve to get started with the Gemini API's.
 
-<img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/1ef1db7e-0066-4e95-9981-5bc7e268d37e" />
+<img width="1245" height="636" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/61563b7f-3b01-4429-a3d9-0d0770c6395b" />
 
 # Get Started
 
@@ -20,11 +20,11 @@ To get started working with Gemini APIs, you must first be authorized to access 
 1. Go to the [Google AI Studio ](https://aistudio.google.com/prompts/new_chat) and click on **Get API key button**.
     
 
-<img src="https://content.pstmn.io/32c9c665-ad5a-4538-b86e-11b1c007c7fc/MXN0IEd1aWRlLnBuZw==">
+<img width="1195" height="259" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/bb6d6e85-a7cb-4910-9379-462c2cced2ae" />
 
 2\. Click on **Create API key button** to create the API key.
 
-<img src="https://content.pstmn.io/7c531cdf-2128-40ed-8f66-17a1acf126fb/R3VpZGUgMi5wbmc=">
+<img width="1207" height="583" alt="Screenshot (438)" src="https://github.com/user-attachments/assets/4a112223-b3ae-463b-83ea-ff797a5ea65f" />
 
 3\. Copy the generated API key and you are good to go !
 
